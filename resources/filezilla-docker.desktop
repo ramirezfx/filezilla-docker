@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Filezilla-Docker
+Icon=/usr/share/icons/docker/filezilla.png
+Exec=/usr/local/bin/startfilezilla.sh
